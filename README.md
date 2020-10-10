@@ -1,2 +1,3 @@
-# FYProject
-This is the repo that has all of mine final year projects codes and data.
+# Placement Help
+
+ Help to boost the placement training for the dream job/compnay you want to crack.
